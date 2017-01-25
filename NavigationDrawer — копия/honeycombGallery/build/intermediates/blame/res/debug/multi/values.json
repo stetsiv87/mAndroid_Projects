@@ -1,0 +1,319 @@
+[
+    {
+        "outputFile": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 61,
+                    "endOffset": 112
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 725,
+                        "endColumn": 61,
+                        "endOffset": 782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 117,
+                    "endColumn": 62,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 62,
+                        "endOffset": 720
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 53,
+                    "endOffset": 229
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 787,
+                        "endColumn": 53,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 43,
+                    "endOffset": 534
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 43,
+                        "endOffset": 701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 539,
+                    "endColumn": 54,
+                    "endOffset": 589
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 54,
+                        "endOffset": 712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 594,
+                    "endColumn": 68,
+                    "endOffset": 658
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 825,
+                        "endColumn": 68,
+                        "endOffset": 889
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 663,
+                    "endColumn": 56,
+                    "endOffset": 715
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 717,
+                        "endColumn": 56,
+                        "endOffset": 769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 720,
+                    "endColumn": 49,
+                    "endOffset": 765
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 774,
+                        "endColumn": 49,
+                        "endOffset": 819
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 770,
+                    "endColumn": 71,
+                    "endOffset": 837
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 965,
+                        "endColumn": 71,
+                        "endOffset": 1032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 842,
+                    "endColumn": 69,
+                    "endOffset": 907
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1038,
+                        "endColumn": 69,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 912,
+                    "endColumn": 69,
+                    "endOffset": 977
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 894,
+                        "endColumn": 69,
+                        "endOffset": 959
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 982,
+                    "endColumn": 75,
+                    "endOffset": 1053
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 76,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1058,
+                    "endLine": 17,
+                    "endColumn": 12,
+                    "endOffset": 1206
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 896,
+                        "endLine": 25,
+                        "endColumn": 12,
+                        "endOffset": 1044
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1211,
+                    "endLine": 20,
+                    "endColumn": 12,
+                    "endOffset": 1361
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1366,
+                    "endLine": 28,
+                    "endColumn": 12,
+                    "endOffset": 1895
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1597,
+                        "endLine": 43,
+                        "endColumn": 12,
+                        "endOffset": 2126
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1900,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 2441
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1050,
+                        "endLine": 34,
+                        "endColumn": 12,
+                        "endOffset": 1591
+                    }
+                }
+            }
+        ]
+    }
+]

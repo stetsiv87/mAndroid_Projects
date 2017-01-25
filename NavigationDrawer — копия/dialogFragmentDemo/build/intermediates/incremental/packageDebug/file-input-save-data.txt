@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Sat Jan 14 10:21:52 EET 2017
+2.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\help_dialog.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+7.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_
+4.set=DEX
+6.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\prompt_dialog.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\dialogFragmentDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+0.set=ANDROID_RESOURCE

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\build\\intermediates\\res\\merged\\debug\\layout\\content_welcome.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\layout\\content_welcome.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\build\\intermediates\\res\\merged\\debug\\layout\\action_bar_custom.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\layout\\action_bar_custom.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\build\\intermediates\\res\\merged\\debug\\layout\\title_list_item.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\layout\\title_list_item.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\build\\intermediates\\res\\merged\\debug\\layout\\camera_sample.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\layout\\camera_sample.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\build\\intermediates\\res\\merged\\debug\\layout\\notification.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\layout\\notification.xml"
+    }
+]

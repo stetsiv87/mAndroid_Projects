@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\savingStateDemo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 53,
+                    "endOffset": 104
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\savingStateDemo\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 53,
+                        "endOffset": 150
+                    }
+                }
+            }
+        ]
+    }
+]

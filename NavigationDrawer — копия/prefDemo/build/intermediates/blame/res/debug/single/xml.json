@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\merged\\debug\\xml\\frag2.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\src\\main\\res\\xml\\frag2.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\merged\\debug\\xml\\main.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\src\\main\\res\\xml\\main.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\merged\\debug\\xml\\headers.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\src\\main\\res\\xml\\headers.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\merged\\debug\\xml\\nested_screen_basicfrag.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\src\\main\\res\\xml\\nested_screen_basicfrag.xml"
+    }
+]

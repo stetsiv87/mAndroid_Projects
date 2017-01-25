@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsyncTask_Example/AsyncTask_Example.iml" filepath="$PROJECT_DIR$/AsyncTask_Example/AsyncTask_Example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NavigationDrawer.iml" filepath="$PROJECT_DIR$/NavigationDrawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/buttonDemo/buttonDemo.iml" filepath="$PROJECT_DIR$/buttonDemo/buttonDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dialogFragmentDemo/dialogFragmentDemo.iml" filepath="$PROJECT_DIR$/dialogFragmentDemo/dialogFragmentDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/honeycombGallery/honeycombGallery.iml" filepath="$PROJECT_DIR$/honeycombGallery/honeycombGallery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prefDemo/prefDemo.iml" filepath="$PROJECT_DIR$/prefDemo/prefDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/savingStateDemo/savingStateDemo.iml" filepath="$PROJECT_DIR$/savingStateDemo/savingStateDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shakespeareInstrumented/shakespeareInstrumented.iml" filepath="$PROJECT_DIR$/shakespeareInstrumented/shakespeareInstrumented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/textview/textview.iml" filepath="$PROJECT_DIR$/textview/textview.iml" />
+    </modules>
+  </component>
+</project>

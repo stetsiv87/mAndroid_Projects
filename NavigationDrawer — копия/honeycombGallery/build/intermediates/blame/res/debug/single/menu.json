@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\build\\intermediates\\res\\merged\\debug\\menu\\photo_context_menu.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\menu\\photo_context_menu.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\build\\intermediates\\res\\merged\\debug\\menu\\camera_menu.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\menu\\camera_menu.xml"
+    }
+]

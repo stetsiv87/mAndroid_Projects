@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 43,
+                    "endOffset": 94
+                },
+                "from": {
+                    "file": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\honeycombGallery\\src\\main\\res\\values-port\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 43,
+                        "endOffset": 701
+                    }
+                }
+            }
+        ]
+    }
+]

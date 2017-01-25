@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sat Jan 14 10:21:51 EET 2017
+2.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu-v11\\main.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+7.set=DEX
+count=10
+0.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+5.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xhdpi-v4\\ic_launcher.png
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-mdpi-v4\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+2.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\buttonDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE

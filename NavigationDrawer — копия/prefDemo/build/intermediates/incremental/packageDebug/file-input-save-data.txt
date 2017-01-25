@@ -1,0 +1,33 @@
+#Internal package file, do not edit.
+#Sat Jan 14 10:21:53 EET 2017
+2.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\main.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\nested_screen_basicfrag.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+7.set=ANDROID_RESOURCE
+count=10
+0.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\frag2.xml
+5.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+9.set=ANDROID_RESOURCE
+9.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\icon.png
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+3.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\xml\\headers.xml
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_
+9.base=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\prefDemo\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\mainmenu.xml
+8.set=DEX
+0.set=ANDROID_RESOURCE

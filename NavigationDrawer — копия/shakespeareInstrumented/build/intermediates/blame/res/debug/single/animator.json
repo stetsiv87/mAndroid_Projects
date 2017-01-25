@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out_right.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\src\\main\\res\\animator\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\build\\intermediates\\res\\merged\\debug\\animator\\bounce_in_down.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\src\\main\\res\\animator\\bounce_in_down.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\build\\intermediates\\res\\merged\\debug\\animator\\slide_in_left.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\src\\main\\res\\animator\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\build\\intermediates\\res\\merged\\debug\\animator\\slide_out_down.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\src\\main\\res\\animator\\slide_out_down.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\build\\intermediates\\res\\merged\\debug\\animator\\fade_in.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\src\\main\\res\\animator\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\build\\intermediates\\res\\merged\\debug\\animator\\fade_out.xml",
+        "source": "C:\\Example_Android_Projects\\cheremisin\\cheremisin\\NavigationDrawer\\shakespeareInstrumented\\src\\main\\res\\animator\\fade_out.xml"
+    }
+]

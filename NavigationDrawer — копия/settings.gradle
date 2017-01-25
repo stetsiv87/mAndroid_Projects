@@ -1,0 +1,7 @@
+include ':app', ':textview', ':AsyncTask_Example'
+include ':buttonDemo'
+include ':honeycombGallery'
+include ':shakespeareInstrumented'
+include ':dialogFragmentDemo'
+include ':prefDemo'
+include ':savingStateDemo'
